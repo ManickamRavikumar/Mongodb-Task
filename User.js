@@ -1,0 +1,42 @@
+[{
+    "user_name":"manickam",
+    "email":"manickam@gamil.com",
+    "date":ISODate("2020-10-16"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"raja",
+    "email":"raja@gamil.com",
+    "date":ISODate("2020-10-20"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"ravikumar",
+    "email":"ravikumar@gamil.com",
+    "date":ISODate("2020-10-29"),
+    "attendance":"present",
+    "task_submission":"passes"
+},
+{
+    "user_name":"jayalakshmi",
+    "email":"jayalakshmi@gamil.com",
+    "date":ISODate("2020-11-01"),
+    "attendance":"absent",
+    "task_submission":"passed"
+},
+{
+    "user_name":"ranjith",
+    "email":"ranjith@gamil.com",
+    "date":ISODate("2020-11-16"),
+    "attendance":"present",
+    "task_submission":"failed"
+},
+{
+    "user_name":"tamil",
+    "email":"tamil@gamil.com",
+    "date":ISODate("2020-11-17"),
+    "attendance":"present",
+    "task_submission":"passed"
+}]
