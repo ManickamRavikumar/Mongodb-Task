@@ -1,41 +1,40 @@
-[{
-    "user_name":"manickam",
-    "email":"manickam@gamil.com",
+  [ { "user_name":"manickam",
+    "email":"manickam@gamil.com","batch":"b17","menter_id":"1","task_id":"1","codekata_id":"1",
     "date":ISODate("2020-10-16"),
-    "attendance":"absent",
+    "attendance":"present",
     "task_submission":"failed"
 },
 {
     "user_name":"raja",
-    "email":"raja@gamil.com",
+    "email":"raja@gamil.com","batch":"b17","menter_id":"2","task_id":"2","codekata_id":"2",
     "date":ISODate("2020-10-20"),
     "attendance":"absent",
     "task_submission":"failed"
 },
 {
     "user_name":"ravikumar",
-    "email":"ravikumar@gamil.com",
+    "email":"ravikumar@gamil.com","batch":"b17","menter_id":"1","task_id":"1","codekata_id":"3",
     "date":ISODate("2020-10-29"),
     "attendance":"present",
     "task_submission":"passes"
 },
 {
     "user_name":"jayalakshmi",
-    "email":"jayalakshmi@gamil.com",
+    "email":"jayalakshmi@gamil.com","batch":"b17","menter_id":"3","task_id":"3","codekata_id":"4",
     "date":ISODate("2020-11-01"),
-    "attendance":"absent",
+    "attendance":"present",
     "task_submission":"passed"
 },
 {
     "user_name":"ranjith",
-    "email":"ranjith@gamil.com",
+    "email":"ranjith@gamil.com","batch":"b17","menter_id":"4","task_id":"4","codecata_id":"4",
     "date":ISODate("2020-11-16"),
-    "attendance":"present",
+    "attendance":"absent",
     "task_submission":"failed"
 },
 {
     "user_name":"tamil",
-    "email":"tamil@gamil.com",
+    "email":"tamil@gamil.com","batch":"b17","menter_id":"5","task_id":"5","codekata_id":"5",
     "date":ISODate("2020-11-17"),
     "attendance":"present",
     "task_submission":"passed"
